@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Products": [
+            {
+                "id": 1,
+                "title": "MacBook",
+                "description": "Notebook",
+                "code": "String",
+                "price": 12000000,
+                "status": true,
+                "stock": 5,
+                "category": "Apple",
+                "thumbnails": [
+                    "./img1"
+                ]
+            }
+        ]
+    }
+]

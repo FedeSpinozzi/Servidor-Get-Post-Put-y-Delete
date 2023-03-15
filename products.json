@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "title": "MacBook",
+        "description": "Notebook",
+        "code": "String",
+        "price": 12000000,
+        "status": true,
+        "stock": 5,
+        "category": "Apple",
+        "thumbnails": [
+            "./img1"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Matebook",
+        "description": "Notebook",
+        "code": "String",
+        "price": 1200,
+        "status": true,
+        "stock": 3,
+        "category": "Huawei",
+        "thumbnails": [
+            "./img2"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "s23",
+        "description": "Celular",
+        "code": "String",
+        "price": 1200,
+        "status": true,
+        "stock": 100,
+        "category": "Samsung",
+        "thumbnails": [
+            "./img4"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "ZenPhone",
+        "description": "Celular",
+        "code": "String",
+        "price": 1200,
+        "status": true,
+        "stock": 100,
+        "category": "Asus",
+        "thumbnails": [
+            "./img5"
+        ]
+    },
+    {
+        "id": 6
+    },
+    {
+        "id": 7,
+        "title": "ZenPhoneAgregado",
+        "description": "Celular",
+        "code": "String",
+        "price": 12000,
+        "status": true,
+        "stock": 100,
+        "category": "Asus",
+        "thumbnails": [
+            "./img5"
+        ]
+    }
+]
