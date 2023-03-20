@@ -28,7 +28,7 @@ router.post('/:cid/product/:pid', async (req, res) => {
     if(!cid || !pid){
         return res.status(400).send("Bad request");
     }
-    const response = await cartManager.createProductByCart(cid, pid);
+    const response = await cartManager.createProductByCart(parseInt(cid), parseInt(pid));
     res.json(response);
 });
 
